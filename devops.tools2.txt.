@@ -1,0 +1,3 @@
+A pom is the fundalmental unit of work in maven 
+It is an xml file that contains information about the project and configuration details used by maven to build the project
+practice the devops tools 
